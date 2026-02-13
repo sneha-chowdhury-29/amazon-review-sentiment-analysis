@@ -57,7 +57,9 @@ End-to-end NLP project that builds a binary sentiment classifier for Amazon prod
 ## 📊 Model Performance
 
 - Accuracy: ~94%
-- F1 (minority class): ~0.90
+- F1 (minority class): ~0.90 
+
+
 - Cross-validated F1: ~0.89–0.90
 
 ---
@@ -78,4 +80,9 @@ End-to-end NLP project that builds a binary sentiment classifier for Amazon prod
 pip install -r requirements.txt
 cd app
 streamlit run app.py
+---
+
+## 📷 Demo
+
+![App Demo](assets/demo.png)
 
